@@ -15,7 +15,6 @@ import android.graphics.Typeface
 import android.text.Layout
 import android.text.StaticLayout
 import android.text.TextPaint
-import android.text.TextUtils
 import androidx.core.content.ContextCompat
 import com.yasin.resimliwidget.R
 import com.yasin.resimliwidget.data.Kart
@@ -114,7 +113,7 @@ object KartCizici {
         val yaziGenisligi = (genislik - kenarBosluk * 2).toInt()
 
         val boya = yaziBoyasi(kisaKenar * 0.068f, ALTIN, Typeface.BOLD)
-        val duzen = duzenOlustur(kart.baslik, boya, yaziGenisligi, 5)
+        val duzen = duzenOlustur(kart.baslik, boya, yaziGenisligi, 4)
 
         val altBosluk = yukseklik * 0.08f
         duzenCiz(canvas, duzen, kenarBosluk, yukseklik - altBosluk - duzen.height)
@@ -129,13 +128,23 @@ object KartCizici {
         return boya
     }
 
+    /** Metin satır sınırına sığmazsa yazı boyutunu küçülterek sığdırır. */
     private fun duzenOlustur(metin: String, boya: TextPaint, genislik: Int, enFazlaSatir: Int): StaticLayout {
+        val enKucukBoyut = boya.textSize * 0.6f
+        var duzen = duzenKur(metin, boya, genislik)
+        while (duzen.lineCount > enFazlaSatir && boya.textSize > enKucukBoyut) {
+            boya.textSize = boya.textSize * 0.92f
+            boya.setShadowLayer(boya.textSize * 0.12f, 0f, boya.textSize * 0.05f, GOLGE)
+            duzen = duzenKur(metin, boya, genislik)
+        }
+        return duzen
+    }
+
+    private fun duzenKur(metin: String, boya: TextPaint, genislik: Int): StaticLayout {
         return StaticLayout.Builder.obtain(metin, 0, metin.length, boya, genislik)
             .setAlignment(Layout.Alignment.ALIGN_CENTER)
             .setLineSpacing(0f, 1.1f)
             .setIncludePad(false)
-            .setMaxLines(enFazlaSatir)
-            .setEllipsize(TextUtils.TruncateAt.END)
             .build()
     }
 
