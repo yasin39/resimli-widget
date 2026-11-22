@@ -1,0 +1,907 @@
+[
+ {
+  "no": 1,
+  "baslik": "Yaşanılan her anın kaderde olduğunu bilerek güne başlamak",
+  "gorsel": "topics/001-yasanilan-her-anin-kaderde-oldugunu-bilerek"
+ },
+ {
+  "no": 2,
+  "baslik": "Gün boyunca imtihan olduğumuzun şuurunda olmak",
+  "gorsel": "topics/002-gun-boyunca-imtihan-oldugumuzun-suurunda-olmak"
+ },
+ {
+  "no": 3,
+  "baslik": "Allah'ı en içten bir saygıyla tesbih edip yüceltmek",
+  "gorsel": "topics/003-allah-i-en-icten-bir-saygiyla"
+ },
+ {
+  "no": 4,
+  "baslik": "Gün içinde her konuda, hiçbir karşılık beklemeksizin sadece Allah'ın rızasını ve hoşnutluğunu aramak",
+  "gorsel": "topics/004-gun-icinde-her-konuda-hicbir-karsilik"
+ },
+ {
+  "no": 5,
+  "baslik": "Allah'ın müminlerin velisi ve yardımcısı olduğunu unutmamak",
+  "gorsel": "topics/005-allah-in-muminlerin-velisi-ve-yardimcisi"
+ },
+ {
+  "no": 6,
+  "baslik": "Allah'ın aklımızdan geçenleri, içimizde olanları bildiğini unutmamak",
+  "gorsel": "topics/006-allah-in-aklimizdan-gecenleri-icimizde-olanlari"
+ },
+ {
+  "no": 7,
+  "baslik": "Gün içinde dikkatin hep Allah'ta olması, her düşünce ve fiilde Allah'a yönelmek",
+  "gorsel": "topics/007-gun-icinde-dikkatin-hep-allah-ta"
+ },
+ {
+  "no": 8,
+  "baslik": "Allah'ı çok anmak, zikretmek",
+  "gorsel": "topics/008-allah-i-cok-anmak-zikretmek"
+ },
+ {
+  "no": 9,
+  "baslik": "Bir topluluk ile karşı karşıya gelindiğinde Allah'ı çok zikretmek",
+  "gorsel": "topics/009-bir-topluluk-ile-karsi-karsiya-gelindiginde"
+ },
+ {
+  "no": 10,
+  "baslik": "Allah'ı zikretmenin en büyük ibadet olduğunu bilmek",
+  "gorsel": "topics/010-allah-i-zikretmenin-en-buyuk-ibadet"
+ },
+ {
+  "no": 11,
+  "baslik": "Kalbimizin yalnızca Allah'ın zikriyle tatmin bulacağını bilmek",
+  "gorsel": "topics/011-kalbimizin-yalnizca-allah-in-zikriyle-tatmin"
+ },
+ {
+  "no": 12,
+  "baslik": "Her durumda tevekküllü bir ruh hali ve tavır içinde olmak",
+  "gorsel": "topics/012-her-durumda-tevekkullu-bir-ruh-hali"
+ },
+ {
+  "no": 13,
+  "baslik": "İmanda derin bir kavrayış elde etmeye çalışmak",
+  "gorsel": "topics/013-imanda-derin-bir-kavrayis-elde-etmeye"
+ },
+ {
+  "no": 14,
+  "baslik": "Ölümü tefekkür etmek, Allah'a döneceğimizi unutmamak",
+  "gorsel": "topics/014-olumu-tefekkur-etmek-allah-a-donecegimizi"
+ },
+ {
+  "no": 15,
+  "baslik": "Ömrün kısa olduğunu unutmamak",
+  "gorsel": "topics/015-omrun-kisa-oldugunu-unutmamak"
+ },
+ {
+  "no": 16,
+  "baslik": "Her türlü zorluktan kurtaranın, her sıkıntıyı açıp giderenin Allah olduğunu unutmamak",
+  "gorsel": "topics/016-her-turlu-zorluktan-kurtaranin-her-sikintiyi"
+ },
+ {
+  "no": 17,
+  "baslik": "Gün içinde her konuda Allah'ın rızasının \"en çoğunu\" seçmek, İslam'a hizmete, fedakarlığa, gerektiğinde zor olana gönüllü talip olmak",
+  "gorsel": "topics/017-gun-icinde-her-konuda-allah-in"
+ },
+ {
+  "no": 18,
+  "baslik": "Allah'ın, yapılacak her güzel davranışın karşılığını kat kat artıracağını bilerek hareket etmek",
+  "gorsel": "topics/018-allah-in-yapilacak-her-guzel-davranisin"
+ },
+ {
+  "no": 19,
+  "baslik": "Güzelliği, zenginliği, ilmi, bilgiyi ve diğer tüm özellikleri verenin Allah olduğunu unutmamak",
+  "gorsel": "topics/019-guzelligi-zenginligi-ilmi-bilgiyi-ve-diger"
+ },
+ {
+  "no": 20,
+  "baslik": "Müminleri, Allah yolunda mücadelede gayretli olmaları için teşvik edip desteklemek",
+  "gorsel": "topics/020-muminleri-allah-yolunda-mucadelede-gayretli-olmalari"
+ },
+ {
+  "no": 21,
+  "baslik": "Müminleri Allah'ın rızası ile müjdelemek, şevklendirmek",
+  "gorsel": "topics/021-muminleri-allah-in-rizasi-ile-mujdelemek"
+ },
+ {
+  "no": 22,
+  "baslik": "Allah'ın iyilik yapanları sevdiğini ve onlara kat kat fazlasıyla karşılık vereceğini bilmek",
+  "gorsel": "topics/022-allah-in-iyilik-yapanlari-sevdigini-ve"
+ },
+ {
+  "no": 23,
+  "baslik": "İyiliği sadece Allah rızası için yapmak",
+  "gorsel": "topics/023-iyiligi-sadece-allah-rizasi-icin-yapmak"
+ },
+ {
+  "no": 24,
+  "baslik": "İyilik ve takva konusunda yardımlaşmak",
+  "gorsel": "topics/024-iyilik-ve-takva-konusunda-yardimlasmak"
+ },
+ {
+  "no": 25,
+  "baslik": "Hayırlarda yarışmak, takvada önder olmak için Allah'a dua etmek",
+  "gorsel": "topics/025-hayirlarda-yarismak-takvada-onder-olmak-icin"
+ },
+ {
+  "no": 26,
+  "baslik": "Allah rızası için alınan sorumluluklarda liyakat sahibi olmak",
+  "gorsel": "topics/026-allah-rizasi-icin-alinan-sorumluluklarda-liyakat"
+ },
+ {
+  "no": 27,
+  "baslik": "Allah'ın tüm evreni ve dünyadaki eğitimi yaratmasının amacının sevgi olduğunu iyi kavramak, Allah'a ve tecellilerine karşı sevgi dolu olmak",
+  "gorsel": "topics/027-allah-in-tum-evreni-ve-dunyadaki"
+ },
+ {
+  "no": 28,
+  "baslik": "Daima barıştan yana bir tutum içinde olmak",
+  "gorsel": "topics/028-daima-baristan-yana-bir-tutum-icinde"
+ },
+ {
+  "no": 29,
+  "baslik": "Karşılaştığı olaylar karşısında hüzne kapılmamak, sıkıntı içinde olmamak",
+  "gorsel": "topics/029-karsilastigi-olaylar-karsisinda-huzne-kapilmamak-sikinti"
+ },
+ {
+  "no": 30,
+  "baslik": "Allah'ın nankörleri sevmediğini bilmek, hiçbir koşulda nankör bir tavır içerisine girmemek",
+  "gorsel": "topics/030-allah-in-nankorleri-sevmedigini-bilmek-hicbir"
+ },
+ {
+  "no": 31,
+  "baslik": "Olaylar karşısında sinirlenmemek, öfkeyi yenmek",
+  "gorsel": "topics/031-olaylar-karsisinda-sinirlenmemek-ofkeyi-yenmek"
+ },
+ {
+  "no": 32,
+  "baslik": "Saldırgan ve şüpheci olmaktan kaçınmak",
+  "gorsel": "topics/032-saldirgan-ve-supheci-olmaktan-kacinmak"
+ },
+ {
+  "no": 33,
+  "baslik": "Sözün en güzelini seçerek konuşmak",
+  "gorsel": "topics/033-sozun-en-guzelini-secerek-konusmak"
+ },
+ {
+  "no": 34,
+  "baslik": "Müşriklerin ve münafıkların bir vasfı olan kötü söz söylemekten, incitici keskin bir dil kullanmaktan sakınmak",
+  "gorsel": "topics/034-musriklerin-ve-munafiklarin-bir-vasfi-olan"
+ },
+ {
+  "no": 35,
+  "baslik": "Daima şefkatli ve halim bir kişilikte olmak",
+  "gorsel": "topics/035-daima-sefkatli-ve-halim-bir-kisilikte"
+ },
+ {
+  "no": 36,
+  "baslik": "Tek başına da olsa güçlü bir şahsiyetle İslam'ı en samimi şekilde savunup yaşamak",
+  "gorsel": "topics/036-tek-basina-da-olsa-guclu-bir"
+ },
+ {
+  "no": 37,
+  "baslik": "Allah yolunda cesur ve kararlı olmak",
+  "gorsel": "topics/037-allah-yolunda-cesur-ve-kararli-olmak"
+ },
+ {
+  "no": 38,
+  "baslik": "Olaylar karşısında telaşlanmamak, endişeye kapılmamak",
+  "gorsel": "topics/038-olaylar-karsisinda-telaslanmamak-endiseye-kapilmamak"
+ },
+ {
+  "no": 39,
+  "baslik": "İmanın neşesi ve mutluluğu içinde olmak",
+  "gorsel": "topics/039-imanin-nesesi-ve-mutlulugu-icinde-olmak"
+ },
+ {
+  "no": 40,
+  "baslik": "Allah'ın, dinine yardım edenlere kesin olarak yardım edeceğini bilmek",
+  "gorsel": "topics/040-allah-in-dinine-yardim-edenlere-kesin"
+ },
+ {
+  "no": 41,
+  "baslik": "Görev dağılımı yapmak",
+  "gorsel": "topics/041-gorev-dagilimi-yapmak"
+ },
+ {
+  "no": 42,
+  "baslik": "Her durumda vicdanının sesine göre hareket etmek",
+  "gorsel": "topics/042-her-durumda-vicdaninin-sesine-gore-hareket"
+ },
+ {
+  "no": 43,
+  "baslik": "Yapılan işlerde istişare etmek",
+  "gorsel": "topics/043-yapilan-islerde-istisare-etmek"
+ },
+ {
+  "no": 44,
+  "baslik": "Sahip olduğumuz nimetlerin birer imtihan vesilesi olduğunu unutmamak",
+  "gorsel": "topics/044-sahip-oldugumuz-nimetlerin-birer-imtihan-vesilesi"
+ },
+ {
+  "no": 45,
+  "baslik": "Emanete ihanet etmekten sakınmak, ahde vefa göstermek",
+  "gorsel": "topics/045-emanete-ihanet-etmekten-sakinmak-ahde-vefa"
+ },
+ {
+  "no": 46,
+  "baslik": "Her durumda adil davranmak, şahitlikte bulunacağı zaman dürüst olmak",
+  "gorsel": "topics/046-her-durumda-adil-davranmak-sahitlikte-bulunacagi"
+ },
+ {
+  "no": 47,
+  "baslik": "Ticarette titiz olmak, haksız kazanç elde etmekten sakınmak",
+  "gorsel": "topics/047-ticarette-titiz-olmak-haksiz-kazanc-elde"
+ },
+ {
+  "no": 48,
+  "baslik": "Borçlu zorluk içindeyse borcu bağışlamak",
+  "gorsel": "topics/048-borclu-zorluk-icindeyse-borcu-bagislamak"
+ },
+ {
+  "no": 49,
+  "baslik": "Borcu, süresiyle birlikte yazmak",
+  "gorsel": "topics/049-borcu-suresiyle-birlikte-yazmak"
+ },
+ {
+  "no": 50,
+  "baslik": "Her şeyi yaratanın Allah olduğunu bilmek, fiili dua niyetiyle sebeplere sarılmak",
+  "gorsel": "topics/050-her-seyi-yaratanin-allah-oldugunu-bilmek"
+ },
+ {
+  "no": 51,
+  "baslik": "Hiçbir zaman için kendini yeterli görmemek",
+  "gorsel": "topics/051-hicbir-zaman-icin-kendini-yeterli-gormemek"
+ },
+ {
+  "no": 52,
+  "baslik": "İlmi ve bilgiyi öğreten Allah'tır. Sahip olduğu bilgiyi kendinden sanıp kibire, şımarıklığa kapılmamak",
+  "gorsel": "topics/052-ilmi-ve-bilgiyi-ogreten-allah-tir"
+ },
+ {
+  "no": 53,
+  "baslik": "Allah'ın büyüklenenleri sevmediğini bilmek ve hiçbir koşulda büyüklenmemek",
+  "gorsel": "topics/053-allah-in-buyuklenenleri-sevmedigini-bilmek-ve"
+ },
+ {
+  "no": 54,
+  "baslik": "Her yerde ve her koşulda sağlam Müslüman kişiliği ile hareket etmek",
+  "gorsel": "topics/054-her-yerde-ve-her-kosulda-saglam"
+ },
+ {
+  "no": 55,
+  "baslik": "Aceleci olmamak",
+  "gorsel": "topics/055-aceleci-olmamak"
+ },
+ {
+  "no": 56,
+  "baslik": "Hakkı söylemekten çekinmemek",
+  "gorsel": "topics/056-hakki-soylemekten-cekinmemek"
+ },
+ {
+  "no": 57,
+  "baslik": "Metanetli ve dayanıklı olmak",
+  "gorsel": "topics/057-metanetli-ve-dayanikli-olmak"
+ },
+ {
+  "no": 58,
+  "baslik": "İbadetleri aşkla ve şevkle yerine getirmek. Müminde yorgunluk, bıkkınlık, üşengeçlik olmaz",
+  "gorsel": "topics/058-ibadetleri-askla-ve-sevkle-yerine-getirmek"
+ },
+ {
+  "no": 59,
+  "baslik": "Allah için yaşamada, İslam'a hizmette samimi olmak; geri kalmak için bahaneler öne sürmemek",
+  "gorsel": "topics/059-allah-icin-yasamada-islam-a-hizmette"
+ },
+ {
+  "no": 60,
+  "baslik": "Müminlerin arasını bulup düzeltmek, onları barıştırmak",
+  "gorsel": "topics/060-muminlerin-arasini-bulup-duzeltmek-onlari-baristirmak"
+ },
+ {
+  "no": 61,
+  "baslik": "Allah'ın tüm konuşmalarımızı işittiğini bilmek, fısıldaşmamak",
+  "gorsel": "topics/061-allah-in-tum-konusmalarimizi-isittigini-bilmek"
+ },
+ {
+  "no": 62,
+  "baslik": "Bilgi sahibi olmadığımız bir konu hakkında konuşmamak, suizandan, dedikodu ve iftiradan kaçınmak",
+  "gorsel": "topics/062-bilgi-sahibi-olmadigimiz-bir-konu-hakkinda"
+ },
+ {
+  "no": 63,
+  "baslik": "Tartışmacı olmaktan sakınmak ve müminlerle çekişmeye girmemek",
+  "gorsel": "topics/063-tartismaci-olmaktan-sakinmak-ve-muminlerle-cekismeye"
+ },
+ {
+  "no": 64,
+  "baslik": "Boş işlerle oyalanmamak, boş konuşmalardan yüz çevirmek",
+  "gorsel": "topics/064-bos-islerle-oyalanmamak-bos-konusmalardan-yuz"
+ },
+ {
+  "no": 65,
+  "baslik": "Boş vaatten kaçınmak, yapmayacağı şeyleri söylememek",
+  "gorsel": "topics/065-bos-vaatten-kacinmak-yapmayacagi-seyleri-soylememek"
+ },
+ {
+  "no": 66,
+  "baslik": "Boş kaldığında başka bir işe yönelmek",
+  "gorsel": "topics/066-bos-kaldiginda-baska-bir-ise-yonelmek"
+ },
+ {
+  "no": 67,
+  "baslik": "Şükrederek çalışmak",
+  "gorsel": "topics/067-sukrederek-calismak"
+ },
+ {
+  "no": 68,
+  "baslik": "'Yapmadığı şeylerle övünmek' gibi samimiyetsiz tavırlardan kaçınmak",
+  "gorsel": "topics/068-yapmadigi-seylerle-ovunmek-gibi-samimiyetsiz-tavirlardan"
+ },
+ {
+  "no": 69,
+  "baslik": "Nefsini bencillik, kıskançlık gibi kötü özelliklerden arındırmak",
+  "gorsel": "topics/069-nefsini-bencillik-kiskanclik-gibi-kotu-ozelliklerden"
+ },
+ {
+  "no": 70,
+  "baslik": "Birlik olmak, ayrılığa düşüp dağılmamak",
+  "gorsel": "topics/070-birlik-olmak-ayriliga-dusup-dagilmamak"
+ },
+ {
+  "no": 71,
+  "baslik": "İnsanların çoğunluğuna uymamak",
+  "gorsel": "topics/071-insanlarin-cogunluguna-uymamak"
+ },
+ {
+  "no": 72,
+  "baslik": "Küfre, hainlere ve münafıklara destek olmaktan sakınmak",
+  "gorsel": "topics/072-kufre-hainlere-ve-munafiklara-destek-olmaktan"
+ },
+ {
+  "no": 73,
+  "baslik": "İnsanlardan korkmamak",
+  "gorsel": "topics/073-insanlardan-korkmamak"
+ },
+ {
+  "no": 74,
+  "baslik": "Güç ve imkanlarına değil yalnızca Allah'a güvenmek",
+  "gorsel": "topics/074-guc-ve-imkanlarina-degil-yalnizca-allah"
+ },
+ {
+  "no": 75,
+  "baslik": "Kınanmaktan korkmamak",
+  "gorsel": "topics/075-kinanmaktan-korkmamak"
+ },
+ {
+  "no": 76,
+  "baslik": "Cimrilik etmemek",
+  "gorsel": "topics/076-cimrilik-etmemek"
+ },
+ {
+  "no": 77,
+  "baslik": "Malı ve parayı biriktirmeyip Allah yolunda harcamak",
+  "gorsel": "topics/077-mali-ve-parayi-biriktirmeyip-allah-yolunda"
+ },
+ {
+  "no": 78,
+  "baslik": "Nefsi savunarak temize çıkarmaya çalışmak yerine Kuran'a göre temizleyip arındırmak gerekir",
+  "gorsel": "topics/078-nefsi-savunarak-temize-cikarmaya-calismak-yerine"
+ },
+ {
+  "no": 79,
+  "baslik": "Kolaylaştırıcı ve yardımsever olmak",
+  "gorsel": "topics/079-kolaylastirici-ve-yardimsever-olmak"
+ },
+ {
+  "no": 80,
+  "baslik": "Yalan söz söylemekten kaçınmak",
+  "gorsel": "topics/080-yalan-soz-soylemekten-kacinmak"
+ },
+ {
+  "no": 81,
+  "baslik": "Aklını kullanarak yaşamak",
+  "gorsel": "topics/081-aklini-kullanarak-yasamak"
+ },
+ {
+  "no": 82,
+  "baslik": "Olayları duygusal değil akılcı değerlendirmek",
+  "gorsel": "topics/082-olaylari-duygusal-degil-akilci-degerlendirmek"
+ },
+ {
+  "no": 83,
+  "baslik": "Küfrü veli edinmemek",
+  "gorsel": "topics/083-kufru-veli-edinmemek"
+ },
+ {
+  "no": 84,
+  "baslik": "Küfre itaat etmemek",
+  "gorsel": "topics/084-kufre-itaat-etmemek"
+ },
+ {
+  "no": 85,
+  "baslik": "Daima her konuda Allah'tan yardım dilemek",
+  "gorsel": "topics/085-daima-her-konuda-allah-tan-yardim"
+ },
+ {
+  "no": 86,
+  "baslik": "Hiçbir konuda ümitsizliğe kapılmamak, her durumda ümitvar olmak",
+  "gorsel": "topics/086-hicbir-konuda-umitsizlige-kapilmamak-her-durumda"
+ },
+ {
+  "no": 87,
+  "baslik": "Allah'ın samimi kullarına yardım edeceğini unutmamak",
+  "gorsel": "topics/087-allah-in-samimi-kullarina-yardim-edecegini"
+ },
+ {
+  "no": 88,
+  "baslik": "Allah'ın sabredenlerle beraber olduğunu, sabredenleri sevdiğini unutmamak",
+  "gorsel": "topics/088-allah-in-sabredenlerle-beraber-oldugunu-sabredenleri"
+ },
+ {
+  "no": 89,
+  "baslik": "Karşılaşılan musibetlerde, zorda, hastalıkta her şartta güzel bir sabır göstermek",
+  "gorsel": "topics/089-karsilasilan-musibetlerde-zorda-hastalikta-her-sartta"
+ },
+ {
+  "no": 90,
+  "baslik": "Küfre eğilim göstermemek",
+  "gorsel": "topics/090-kufre-egilim-gostermemek"
+ },
+ {
+  "no": 91,
+  "baslik": "Allah'ın sınırlarını titizlikle korumak, haramlara riayet etmek",
+  "gorsel": "topics/091-allah-in-sinirlarini-titizlikle-korumak-haramlara"
+ },
+ {
+  "no": 92,
+  "baslik": "Gün içinde Allah'a yaklaştıracak vesileler aramak",
+  "gorsel": "topics/092-gun-icinde-allah-a-yaklastiracak-vesileler"
+ },
+ {
+  "no": 93,
+  "baslik": "Allah'tan gereği gibi korkup sakınmak",
+  "gorsel": "topics/093-allah-tan-geregi-gibi-korkup-sakinmak"
+ },
+ {
+  "no": 94,
+  "baslik": "Sebeplere güç atfetmeden tüm nimetlerin doğrudan Allah'tan olduğunu bilmek",
+  "gorsel": "topics/094-sebeplere-guc-atfetmeden-tum-nimetlerin-dogrudan"
+ },
+ {
+  "no": 95,
+  "baslik": "Allah'a derin saygı göstermek",
+  "gorsel": "topics/095-allah-a-derin-saygi-gostermek"
+ },
+ {
+  "no": 96,
+  "baslik": "Namazları titizlik göstererek korumak ve huşu içinde dosdoğru kılmak",
+  "gorsel": "topics/096-namazlari-titizlik-gostererek-korumak-ve-husu"
+ },
+ {
+  "no": 97,
+  "baslik": "Kuran okumak",
+  "gorsel": "topics/097-kuran-okumak"
+ },
+ {
+  "no": 98,
+  "baslik": "Kuran okuduğunda şeytandan Allah'a sığınmak",
+  "gorsel": "topics/098-kuran-okudugunda-seytandan-allah-a-siginmak"
+ },
+ {
+  "no": 99,
+  "baslik": "Kuran okunduğu zaman hemen susup dinlemek",
+  "gorsel": "topics/099-kuran-okundugu-zaman-hemen-susup-dinlemek"
+ },
+ {
+  "no": 100,
+  "baslik": "Allah'ın ayetlerine karşı duyarlı ve boyun eğici olmak",
+  "gorsel": "topics/100-allah-in-ayetlerine-karsi-duyarli-ve"
+ },
+ {
+  "no": 101,
+  "baslik": "Kuran ayetleri üzerinde düşünmek ve Kuran'dan öğüt almak",
+  "gorsel": "topics/101-kuran-ayetleri-uzerinde-dusunmek-ve-kuran"
+ },
+ {
+  "no": 102,
+  "baslik": "Hiçbir şeyle Allah'a şirk koşmamak",
+  "gorsel": "topics/102-hicbir-seyle-allah-a-sirk-kosmamak"
+ },
+ {
+  "no": 103,
+  "baslik": "Affedici olmak",
+  "gorsel": "topics/103-affedici-olmak"
+ },
+ {
+  "no": 104,
+  "baslik": "Sadece Allah'ı ve iman edenleri sırdaş, dost ve veli edinmek",
+  "gorsel": "topics/104-sadece-allah-i-ve-iman-edenleri"
+ },
+ {
+  "no": 105,
+  "baslik": "İnkarcıların hayatına özenmemek, dünya hayatının aldatıcılığına kapılmamak",
+  "gorsel": "topics/105-inkarcilarin-hayatina-ozenmemek-dunya-hayatinin-aldaticiligina"
+ },
+ {
+  "no": 106,
+  "baslik": "Üstün olanın her zaman iman edenler olduğunun bilincinde olmak",
+  "gorsel": "topics/106-ustun-olanin-her-zaman-iman-edenler"
+ },
+ {
+  "no": 107,
+  "baslik": "İyiliği emredip kötülükten sakındırmak",
+  "gorsel": "topics/107-iyiligi-emredip-kotulukten-sakindirmak"
+ },
+ {
+  "no": 108,
+  "baslik": "İnsanlara iyiliği emrederken kendimizi unutmamak",
+  "gorsel": "topics/108-insanlara-iyiligi-emrederken-kendimizi-unutmamak"
+ },
+ {
+  "no": 109,
+  "baslik": "Dikbaşlı, isyankar bir tutumdan sakınmak",
+  "gorsel": "topics/109-dikbasli-isyankar-bir-tutumdan-sakinmak"
+ },
+ {
+  "no": 110,
+  "baslik": "Namaz kılınan mekanları, mescidleri onarmak",
+  "gorsel": "topics/110-namaz-kilinan-mekanlari-mescidleri-onarmak"
+ },
+ {
+  "no": 111,
+  "baslik": "Temizliğe önem vermek; evi, mescidleri, giysileri temiz tutmak",
+  "gorsel": "topics/111-temizlige-onem-vermek-evi-mescidleri-giysileri"
+ },
+ {
+  "no": 112,
+  "baslik": "Mescidlere giderken şık olmak",
+  "gorsel": "topics/112-mescidlere-giderken-sik-olmak"
+ },
+ {
+  "no": 113,
+  "baslik": "Yiyeceklerin temiz ve güzel olanını tercih etmek",
+  "gorsel": "topics/113-yiyeceklerin-temiz-ve-guzel-olanini-tercih"
+ },
+ {
+  "no": 114,
+  "baslik": "Allah'ın isminin anıldığı yiyeceklerden yemek",
+  "gorsel": "topics/114-allah-in-isminin-anildigi-yiyeceklerden-yemek"
+ },
+ {
+  "no": 115,
+  "baslik": "Rızkı verenin Allah olduğunu bilmek, rızkı Allah'tan istemek",
+  "gorsel": "topics/115-rizki-verenin-allah-oldugunu-bilmek-rizki"
+ },
+ {
+  "no": 116,
+  "baslik": "Müminlerin velayetinin üzerimizde bir sorumluluk olduğunu bilmek",
+  "gorsel": "topics/116-muminlerin-velayetinin-uzerimizde-bir-sorumluluk-oldugunu"
+ },
+ {
+  "no": 117,
+  "baslik": "Elinden çıkana üzüntü duymamak, verilen nimetlerle şımarmamak",
+  "gorsel": "topics/117-elinden-cikana-uzuntu-duymamak-verilen-nimetlerle"
+ },
+ {
+  "no": 118,
+  "baslik": "Yapılan iyiliği başa kakmamak",
+  "gorsel": "topics/118-yapilan-iyiligi-basa-kakmamak"
+ },
+ {
+  "no": 119,
+  "baslik": "Mescidlerde, toplantılarda müminlere yer açmak",
+  "gorsel": "topics/119-mescidlerde-toplantilarda-muminlere-yer-acmak"
+ },
+ {
+  "no": 120,
+  "baslik": "Uyku konusunda vicdanlı davranmak, ihtiyacı kadar uyumak",
+  "gorsel": "topics/120-uyku-konusunda-vicdanli-davranmak-ihtiyaci-kadar"
+ },
+ {
+  "no": 121,
+  "baslik": "Allah'a, hükümlerine ve elçilerine gönülden itaat etmek",
+  "gorsel": "topics/121-allah-a-hukumlerine-ve-elcilerine-gonulden"
+ },
+ {
+  "no": 122,
+  "baslik": "Dikkatimizin daima açık olması",
+  "gorsel": "topics/122-dikkatimizin-daima-acik-olmasi"
+ },
+ {
+  "no": 123,
+  "baslik": "Kargaşa çıkaran üslup ve tavırdan kaçınmak, bozgunculuk yapmamak",
+  "gorsel": "topics/123-kargasa-cikaran-uslup-ve-tavirdan-kacinmak"
+ },
+ {
+  "no": 124,
+  "baslik": "Mümin kimseyi kovmamak",
+  "gorsel": "topics/124-mumin-kimseyi-kovmamak"
+ },
+ {
+  "no": 125,
+  "baslik": "Allah'a, Kuran'a, Müslümanlara sadakat göstermek",
+  "gorsel": "topics/125-allah-a-kuran-a-muslumanlara-sadakat"
+ },
+ {
+  "no": 126,
+  "baslik": "Gösterilen güzel ahlakta, yapılan hayırlı hizmetlerde istikrarlı olmak",
+  "gorsel": "topics/126-gosterilen-guzel-ahlakta-yapilan-hayirli-hizmetlerde"
+ },
+ {
+  "no": 127,
+  "baslik": "Kuran'da bildirilen bir ibadet olarak korunma tedbirleri almak",
+  "gorsel": "topics/127-kuran-da-bildirilen-bir-ibadet-olarak"
+ },
+ {
+  "no": 128,
+  "baslik": "Kötülüğü en güzel şekilde uzaklaştırmak",
+  "gorsel": "topics/128-kotulugu-en-guzel-sekilde-uzaklastirmak"
+ },
+ {
+  "no": 129,
+  "baslik": "Tutum ve davranışlarında en üstün ahlakı hedeflemek",
+  "gorsel": "topics/129-tutum-ve-davranislarinda-en-ustun-ahlaki"
+ },
+ {
+  "no": 130,
+  "baslik": "Hoş olmayan lakaplar takmamak",
+  "gorsel": "topics/130-hos-olmayan-lakaplar-takmamak"
+ },
+ {
+  "no": 131,
+  "baslik": "Din konusunda aklıbaşında ciddi bir tavır içinde olmak, dinin oyun ve eğlence konusu olamayacağının şuurunda olmak",
+  "gorsel": "topics/131-din-konusunda-aklibasinda-ciddi-bir-tavir"
+ },
+ {
+  "no": 132,
+  "baslik": "Allah'ın ayetlerinin inkar edildiği, alaycı konuşmaların, esprilerin yapıldığı ortamı terk etmek",
+  "gorsel": "topics/132-allah-in-ayetlerinin-inkar-edildigi-alayci"
+ },
+ {
+  "no": 133,
+  "baslik": "Kaş göz hareketleriyle alaycı bir tavır sergilememek",
+  "gorsel": "topics/133-kas-goz-hareketleriyle-alayci-bir-tavir"
+ },
+ {
+  "no": 134,
+  "baslik": "Anne ve babaya iyilikle davranmak, yaşlılık dönemlerinde onları güzellikle sahiplenmek",
+  "gorsel": "topics/134-anne-ve-babaya-iyilikle-davranmak-yaslilik"
+ },
+ {
+  "no": 135,
+  "baslik": "Yetimlere güzel davranmak, onların haklarına titizlik göstermek",
+  "gorsel": "topics/135-yetimlere-guzel-davranmak-onlarin-haklarina-titizlik"
+ },
+ {
+  "no": 136,
+  "baslik": "Yetime ikram etmek, yoksulu doyurmak için insanları teşvik etmek",
+  "gorsel": "topics/136-yetime-ikram-etmek-yoksulu-doyurmak-icin"
+ },
+ {
+  "no": 137,
+  "baslik": "İsteyip dilenene çıkışmamak",
+  "gorsel": "topics/137-isteyip-dilenene-cikismamak"
+ },
+ {
+  "no": 138,
+  "baslik": "İnfakta, insanlara gösterişten ve minnet etmekten sakınmak",
+  "gorsel": "topics/138-infakta-insanlara-gosteristen-ve-minnet-etmekten"
+ },
+ {
+  "no": 139,
+  "baslik": "Malını gece gündüz, gizli açık, darlıkta ve bollukta infak etmek",
+  "gorsel": "topics/139-malini-gece-gunduz-gizli-acik-darlikta"
+ },
+ {
+  "no": 140,
+  "baslik": "Kendisinin sevdiği güzel ve iyi olan şeylerden infak etmek, beğenmediği kötü bir şeyi başkasına vermeye kalkışmamak",
+  "gorsel": "topics/140-kendisinin-sevdigi-guzel-ve-iyi-olan"
+ },
+ {
+  "no": 141,
+  "baslik": "Allah'ın infakın karşılığını kat kat artıracağını ve büyük bir bereket vereceğini bilmek",
+  "gorsel": "topics/141-allah-in-infakin-karsiligini-kat-kat"
+ },
+ {
+  "no": 142,
+  "baslik": "Allah'a isimleriyle dua etmek",
+  "gorsel": "topics/142-allah-a-isimleriyle-dua-etmek"
+ },
+ {
+  "no": 143,
+  "baslik": "Allah'a yalvara yalvara için için dua etmek",
+  "gorsel": "topics/143-allah-a-yalvara-yalvara-icin-icin"
+ },
+ {
+  "no": 144,
+  "baslik": "Hikmeti verenin Allah olduğunu unutmamak ve hikmet vermesi için Allah'a dua etmek",
+  "gorsel": "topics/144-hikmeti-verenin-allah-oldugunu-unutmamak-ve"
+ },
+ {
+  "no": 145,
+  "baslik": "Dini tebliğ ederek insanları Allah'a, İslam'a davet etmek",
+  "gorsel": "topics/145-dini-teblig-ederek-insanlari-allah-a"
+ },
+ {
+  "no": 146,
+  "baslik": "Yarar sağlayacaksa öğüt verip tebliğ yapmak",
+  "gorsel": "topics/146-yarar-saglayacaksa-ogut-verip-teblig-yapmak"
+ },
+ {
+  "no": 147,
+  "baslik": "Dini tebliğden ücret talep etmemek",
+  "gorsel": "topics/147-dini-tebligden-ucret-talep-etmemek"
+ },
+ {
+  "no": 148,
+  "baslik": "Dini konularda kimseyi zorlamamak, baskı yapmamak",
+  "gorsel": "topics/148-dini-konularda-kimseyi-zorlamamak-baski-yapmamak"
+ },
+ {
+  "no": 149,
+  "baslik": "İffetini korumak",
+  "gorsel": "topics/149-iffetini-korumak"
+ },
+ {
+  "no": 150,
+  "baslik": "Evlere girerken selam vermek",
+  "gorsel": "topics/150-evlere-girerken-selam-vermek"
+ },
+ {
+  "no": 151,
+  "baslik": "Evlere izin almadan ve ev halkına selam vermeden girmemek",
+  "gorsel": "topics/151-evlere-izin-almadan-ve-ev-halkina"
+ },
+ {
+  "no": 152,
+  "baslik": "Selam verildiğinde aynısıyla veya daha güzeliyle karşılık vermek",
+  "gorsel": "topics/152-selam-verildiginde-aynisiyla-veya-daha-guzeliyle"
+ },
+ {
+  "no": 153,
+  "baslik": "Evlere kapılarından girmek",
+  "gorsel": "topics/153-evlere-kapilarindan-girmek"
+ },
+ {
+  "no": 154,
+  "baslik": "Misafirperver olmak, misafire sormadan gecikmeksizin güzel ikramlarda bulunmak",
+  "gorsel": "topics/154-misafirperver-olmak-misafire-sormadan-gecikmeksizin-guzel"
+ },
+ {
+  "no": 155,
+  "baslik": "İnsanlara karşı büyüklenmemek, yürüyüşünde, tavrında üslubunda daima alçakgönüllü-tevazulu bir tutum içinde olmak",
+  "gorsel": "topics/155-insanlara-karsi-buyuklenmemek-yuruyusunde-tavrinda-uslubunda"
+ },
+ {
+  "no": 156,
+  "baslik": "Bağırarak konuşmamak",
+  "gorsel": "topics/156-bagirarak-konusmamak"
+ },
+ {
+  "no": 157,
+  "baslik": "Güzellikler karşısında \"Maşaallah\" diyerek Allah'ı yüceltmek",
+  "gorsel": "topics/157-guzellikler-karsisinda-masaallah-diyerek-allah-i"
+ },
+ {
+  "no": 158,
+  "baslik": "Gelecekte yapılacak her şey için \"İnşaallah\" diyerek Allah'ı yüceltmek ve ancak Allah dilerse yapabileceğimizi hatırlamak",
+  "gorsel": "topics/158-gelecekte-yapilacak-her-sey-icin-insaallah"
+ },
+ {
+  "no": 159,
+  "baslik": "Geleceğe yönelik bir konuda \"İnşaallah\" demeyi unuttuğunda Allah'ı zikretmek",
+  "gorsel": "topics/159-gelecege-yonelik-bir-konuda-insaallah-demeyi"
+ },
+ {
+  "no": 160,
+  "baslik": "Allah'ın işaret ettiği ve araştırmamızı, düşünmemizi istediği konulara yönelmek",
+  "gorsel": "topics/160-allah-in-isaret-ettigi-ve-arastirmamizi"
+ },
+ {
+  "no": 161,
+  "baslik": "İslam'a, Kuran'a hizmette hiçbir kuşkuya kapılmadan ciddi çaba harcamak",
+  "gorsel": "topics/161-islam-a-kuran-a-hizmette-hicbir"
+ },
+ {
+  "no": 162,
+  "baslik": "Allah yolunda mücadele için hazırlık yapmak",
+  "gorsel": "topics/162-allah-yolunda-mucadele-icin-hazirlik-yapmak"
+ },
+ {
+  "no": 163,
+  "baslik": "Allah yolunda gerektiği gibi ve Kur'an'la mücadele vermek",
+  "gorsel": "topics/163-allah-yolunda-gerektigi-gibi-ve-kur"
+ },
+ {
+  "no": 164,
+  "baslik": "Allah yolunda mücadelede asla isteksiz, şevksiz bir tutum içine girmemek",
+  "gorsel": "topics/164-allah-yolunda-mucadelede-asla-isteksiz-sevksiz"
+ },
+ {
+  "no": 165,
+  "baslik": "İslam ahlakını yaşamada ağır davranmamak, gevşeklik göstermemek",
+  "gorsel": "topics/165-islam-ahlakini-yasamada-agir-davranmamak-gevseklik"
+ },
+ {
+  "no": 166,
+  "baslik": "Yeryüzünde fitne kalmayıncaya ve din İslam oluncaya kadar mücadele etmek",
+  "gorsel": "topics/166-yeryuzunde-fitne-kalmayincaya-ve-din-islam"
+ },
+ {
+  "no": 167,
+  "baslik": "Allah yolunda mücadele eden müminlere Allah'ın yardım edeceğini unutmamak",
+  "gorsel": "topics/167-allah-yolunda-mucadele-eden-muminlere-allah"
+ },
+ {
+  "no": 168,
+  "baslik": "Gerektiğinde Allah için hicret etmek, hicret edenleri barındırmak",
+  "gorsel": "topics/168-gerektiginde-allah-icin-hicret-etmek-hicret"
+ },
+ {
+  "no": 169,
+  "baslik": "Günah işlemekten titizlikle sakınmak",
+  "gorsel": "topics/169-gunah-islemekten-titizlikle-sakinmak"
+ },
+ {
+  "no": 170,
+  "baslik": "İsraf etmemek",
+  "gorsel": "topics/170-israf-etmemek"
+ },
+ {
+  "no": 171,
+  "baslik": "Vesveseye kapılmamak, vesvese geldiğinde şeytandan Allah'a sığınmak",
+  "gorsel": "topics/171-vesveseye-kapilmamak-vesvese-geldiginde-seytandan-allah"
+ },
+ {
+  "no": 172,
+  "baslik": "Tavır ve düşüncelerinde şeytanın etkisine girmekten sakınmak",
+  "gorsel": "topics/172-tavir-ve-dusuncelerinde-seytanin-etkisine-girmekten"
+ },
+ {
+  "no": 173,
+  "baslik": "Şeytanın hilesinin zayıf olduğunu, samimi iman edenler üzerinde bir etkisinin olmayacağını bilmek",
+  "gorsel": "topics/173-seytanin-hilesinin-zayif-oldugunu-samimi-iman"
+ },
+ {
+  "no": 174,
+  "baslik": "Allah'ın nimetlerini sürekli anmak, anlatmak ve Allah'a şükretmek",
+  "gorsel": "topics/174-allah-in-nimetlerini-surekli-anmak-anlatmak"
+ },
+ {
+  "no": 175,
+  "baslik": "Allah'tan bağışlanma ve af dilemek ve tövbe etmek",
+  "gorsel": "topics/175-allah-tan-bagislanma-ve-af-dilemek"
+ },
+ {
+  "no": 176,
+  "baslik": "Seher vaktinde bağışlanma dilemek",
+  "gorsel": "topics/176-seher-vaktinde-bagislanma-dilemek"
+ },
+ {
+  "no": 177,
+  "baslik": "Diğer Müslümanlar için dua ederek bağışlanmalarını dilemek",
+  "gorsel": "topics/177-diger-muslumanlar-icin-dua-ederek-bagislanmalarini"
+ },
+ {
+  "no": 178,
+  "baslik": "Allah'a umut taşıyarak ve korkarak dua etmek",
+  "gorsel": "topics/178-allah-a-umut-tasiyarak-ve-korkarak"
+ },
+ {
+  "no": 179,
+  "baslik": "Allah yolunda seyahat etmek",
+  "gorsel": "topics/179-allah-yolunda-seyahat-etmek"
+ },
+ {
+  "no": 180,
+  "baslik": "Asıl yurdumuzun ahiret olduğunu hiç unutmadan hazırlık yapmak",
+  "gorsel": "topics/180-asil-yurdumuzun-ahiret-oldugunu-hic-unutmadan"
+ },
+ {
+  "no": 181,
+  "baslik": "Yalnızca Allah'a kulluk etmek",
+  "gorsel": "topics/181-yalnizca-allah-a-kulluk-etmek"
+ }
+]
