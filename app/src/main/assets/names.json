@@ -1,0 +1,740 @@
+[
+ {
+  "no": 1,
+  "isim": "ADL",
+  "anlam": "Adil olan, adaleti emreden",
+  "gorsel": "names/001-adl"
+ },
+ {
+  "no": 2,
+  "isim": "AFÜVV",
+  "anlam": "Affı çok olan",
+  "gorsel": "names/002-afuvv"
+ },
+ {
+  "no": 3,
+  "isim": "AHİR",
+  "anlam": "Herşeyin yok oluşundan sonra da var olan",
+  "gorsel": "names/003-ahir"
+ },
+ {
+  "no": 4,
+  "isim": "AHKAM-ÜL HAKİMİN",
+  "anlam": "Hüküm verenlerin hakimi",
+  "gorsel": "names/004-ahkam-ul-hakimin"
+ },
+ {
+  "no": 5,
+  "isim": "ALİM",
+  "anlam": "Her şeyi çok iyi bilen",
+  "gorsel": "names/005-alim"
+ },
+ {
+  "no": 6,
+  "isim": "ALİYY",
+  "anlam": "Çok Yüce olan",
+  "gorsel": "names/006-aliyy"
+ },
+ {
+  "no": 7,
+  "isim": "ASİM",
+  "anlam": "Koruyan",
+  "gorsel": "names/007-asim"
+ },
+ {
+  "no": 8,
+  "isim": "AZİM",
+  "anlam": "Pek azametli, büyük olan",
+  "gorsel": "names/008-azim"
+ },
+ {
+  "no": 9,
+  "isim": "AZİZ",
+  "anlam": "Üstün, kuvvetli, güçlü, şerefli, mağlup edilmesi mümkün olmayan, galip olan",
+  "gorsel": "names/009-aziz"
+ },
+ {
+  "no": 10,
+  "isim": "BAİS",
+  "anlam": "Gönderen (peygamber), uyandıran, dirilten",
+  "gorsel": "names/010-bais"
+ },
+ {
+  "no": 11,
+  "isim": "BAKİ",
+  "anlam": "Devam eden, fani olmayan",
+  "gorsel": "names/011-baki"
+ },
+ {
+  "no": 12,
+  "isim": "BARİ",
+  "anlam": "Yaratan, kusursuzca var eden",
+  "gorsel": "names/012-bari"
+ },
+ {
+  "no": 13,
+  "isim": "BASİR",
+  "anlam": "İyi gören",
+  "gorsel": "names/013-basir"
+ },
+ {
+  "no": 14,
+  "isim": "BASIT",
+  "anlam": "Açan, genişleten, bollaştıran",
+  "gorsel": "names/014-basit"
+ },
+ {
+  "no": 15,
+  "isim": "BATIN",
+  "anlam": "Gizli",
+  "gorsel": "names/015-batin"
+ },
+ {
+  "no": 16,
+  "isim": "BEDİ",
+  "anlam": "Örneksiz olarak yaratan",
+  "gorsel": "names/016-bedi"
+ },
+ {
+  "no": 17,
+  "isim": "BERR",
+  "anlam": "Kullarına karşı iyiliği çok olan",
+  "gorsel": "names/017-berr"
+ },
+ {
+  "no": 18,
+  "isim": "CAMİ",
+  "anlam": "İstediğini, istediği zaman, istediği yerde toplayan",
+  "gorsel": "names/018-cami"
+ },
+ {
+  "no": 19,
+  "isim": "CEBBAR",
+  "anlam": "Dilediğini zorla yaptırmaya muktedir olan",
+  "gorsel": "names/019-cebbar"
+ },
+ {
+  "no": 20,
+  "isim": "DA'İ",
+  "anlam": "Çağıran",
+  "gorsel": "names/020-da-i"
+ },
+ {
+  "no": 21,
+  "isim": "DAFİĞ",
+  "anlam": "Belaları defeden, çevirici",
+  "gorsel": "names/021-dafig"
+ },
+ {
+  "no": 22,
+  "isim": "DARR",
+  "anlam": "Zarar verici şeyler yaratan",
+  "gorsel": "names/022-darr"
+ },
+ {
+  "no": 23,
+  "isim": "ERHAMURRAHİMİN",
+  "anlam": "Merhamet edenlerin en merhametlisi",
+  "gorsel": "names/023-erhamurrahimin"
+ },
+ {
+  "no": 24,
+  "isim": "EVVEL",
+  "anlam": "İlk",
+  "gorsel": "names/024-evvel"
+ },
+ {
+  "no": 25,
+  "isim": "FALİK",
+  "anlam": "Yaran, yarıcı (karanlığı yarıp sabahı çıkaran, tohumu yaran)",
+  "gorsel": "names/025-falik"
+ },
+ {
+  "no": 26,
+  "isim": "FASIL",
+  "anlam": "Ayıran, açıklayan",
+  "gorsel": "names/026-fasil"
+ },
+ {
+  "no": 27,
+  "isim": "FATIR",
+  "anlam": "Yaratan, icat eden",
+  "gorsel": "names/027-fatir"
+ },
+ {
+  "no": 28,
+  "isim": "FETTAH",
+  "anlam": "Çok iyi hüküm veren, açan, hükmeden",
+  "gorsel": "names/028-fettah"
+ },
+ {
+  "no": 29,
+  "isim": "GAFFAR",
+  "anlam": "Mağfireti, bağışlaması çok olan",
+  "gorsel": "names/029-gaffar"
+ },
+ {
+  "no": 30,
+  "isim": "GANİYY",
+  "anlam": "Çok zengin, her şeyden müstağni olan",
+  "gorsel": "names/030-ganiyy"
+ },
+ {
+  "no": 31,
+  "isim": "HABİR",
+  "anlam": "Her şeyin iç yüzünden, gizli taraflarından haberdar",
+  "gorsel": "names/031-habir"
+ },
+ {
+  "no": 32,
+  "isim": "HADİ",
+  "anlam": "Hidayet lütfeden, doğru yola ulaştıran",
+  "gorsel": "names/032-hadi"
+ },
+ {
+  "no": 33,
+  "isim": "HAFID",
+  "anlam": "Yukarıdan aşağıya indiren, alçaltan",
+  "gorsel": "names/033-hafid"
+ },
+ {
+  "no": 34,
+  "isim": "HAFIZ",
+  "anlam": "Koruyan, gözeten, muhafaza eden",
+  "gorsel": "names/034-hafiz"
+ },
+ {
+  "no": 35,
+  "isim": "HAKEM",
+  "anlam": "Hükmeden, hakkı yerine getiren",
+  "gorsel": "names/035-hakem"
+ },
+ {
+  "no": 36,
+  "isim": "HAKİM",
+  "anlam": "Hikmet sahibi, sağlam, muhkem olan",
+  "gorsel": "names/036-hakim"
+ },
+ {
+  "no": 37,
+  "isim": "HAKK",
+  "anlam": "Varlığı hiç değişmeden duran",
+  "gorsel": "names/037-hakk"
+ },
+ {
+  "no": 38,
+  "isim": "HALIK",
+  "anlam": "Her şeyin varlığı ve varlığı boyunca görüp geçireceği halleri, hadiseleri tespit ve tayin eden ve ona göre yaratan, yoktan var eden",
+  "gorsel": "names/038-halik"
+ },
+ {
+  "no": 39,
+  "isim": "HALİM",
+  "anlam": "Çok yumuşak olan",
+  "gorsel": "names/039-halim"
+ },
+ {
+  "no": 40,
+  "isim": "HAMİD",
+  "anlam": "Ancak Kendisi'ne şükredilen, bütün varlığın diliyle yegane övülen",
+  "gorsel": "names/040-hamid"
+ },
+ {
+  "no": 41,
+  "isim": "HASİB",
+  "anlam": "Hesap Gören",
+  "gorsel": "names/041-hasib"
+ },
+ {
+  "no": 42,
+  "isim": "HAYY",
+  "anlam": "Diri, her şeyi bilen ve her şeye gücü yeten",
+  "gorsel": "names/042-hayy"
+ },
+ {
+  "no": 43,
+  "isim": "KABID",
+  "anlam": "Sıkan, daraltan",
+  "gorsel": "names/043-kabid"
+ },
+ {
+  "no": 44,
+  "isim": "KABİL",
+  "anlam": "Kabul eden, icabet eden, bağışlayan",
+  "gorsel": "names/044-kabil"
+ },
+ {
+  "no": 45,
+  "isim": "KADİ",
+  "anlam": "Hükmünü yerine getiren, işini bitiren",
+  "gorsel": "names/045-kadi"
+ },
+ {
+  "no": 46,
+  "isim": "KADİM",
+  "anlam": "Önceden yapan, önceden bildiren",
+  "gorsel": "names/046-kadim"
+ },
+ {
+  "no": 47,
+  "isim": "KADİR",
+  "anlam": "İstediğini istediği gibi yapmaya gücü yeten",
+  "gorsel": "names/047-kadir"
+ },
+ {
+  "no": 48,
+  "isim": "KAFİ",
+  "anlam": "Yeterli, varlığı mevcudatın bütün ihtiyaçlarına yeten",
+  "gorsel": "names/048-kafi"
+ },
+ {
+  "no": 49,
+  "isim": "KAHHAR",
+  "anlam": "Kahreden, her şeye, her istediğini yapacak surette galip ve hakim olan",
+  "gorsel": "names/049-kahhar"
+ },
+ {
+  "no": 50,
+  "isim": "KAİM",
+  "anlam": "İdare edip ayakta tutan",
+  "gorsel": "names/050-kaim"
+ },
+ {
+  "no": 51,
+  "isim": "KARİB",
+  "anlam": "Yakın olan",
+  "gorsel": "names/051-karib"
+ },
+ {
+  "no": 52,
+  "isim": "KASİM",
+  "anlam": "Kısımlandıran, rızıkları, nimetleri adalet, hikmet ve rahmet içinde taksim edip herkese nasibini veren",
+  "gorsel": "names/052-kasim"
+ },
+ {
+  "no": 53,
+  "isim": "KAVİ",
+  "anlam": "Pek güçlü olan",
+  "gorsel": "names/053-kavi"
+ },
+ {
+  "no": 54,
+  "isim": "KEBİR",
+  "anlam": "Pek büyük",
+  "gorsel": "names/054-kebir"
+ },
+ {
+  "no": 55,
+  "isim": "KERİM",
+  "anlam": "Keremi bol, cömert olan",
+  "gorsel": "names/055-kerim"
+ },
+ {
+  "no": 56,
+  "isim": "KUDDÜS",
+  "anlam": "Hatadan, gafletten ve her türlü eksiklikten çok uzak, pek temiz",
+  "gorsel": "names/056-kuddus"
+ },
+ {
+  "no": 57,
+  "isim": "LATİF",
+  "anlam": "Lütuf sahibi, lütfedici olan",
+  "gorsel": "names/057-latif"
+ },
+ {
+  "no": 58,
+  "isim": "MAKİR",
+  "anlam": "Tuzak kuran",
+  "gorsel": "names/058-makir"
+ },
+ {
+  "no": 59,
+  "isim": "MALİK-İ YEVMİD-DİN",
+  "anlam": "Din gününün sahibi",
+  "gorsel": "names/059-malik-i-yevmid-din"
+ },
+ {
+  "no": 60,
+  "isim": "MALİK-ÜL MÜLK",
+  "anlam": "Mülkün ebedi sahibi",
+  "gorsel": "names/060-malik-ul-mulk"
+ },
+ {
+  "no": 61,
+  "isim": "MECİD",
+  "anlam": "Şanı büyük ve yüksek",
+  "gorsel": "names/061-mecid"
+ },
+ {
+  "no": 62,
+  "isim": "MELCA",
+  "anlam": "Kendisine sığınılan",
+  "gorsel": "names/062-melca"
+ },
+ {
+  "no": 63,
+  "isim": "MELİK",
+  "anlam": "Bütün kainatın sahibi ve mutlak surette hükümdarı",
+  "gorsel": "names/063-melik"
+ },
+ {
+  "no": 64,
+  "isim": "METİN",
+  "anlam": "Çok sağlam olan",
+  "gorsel": "names/064-metin"
+ },
+ {
+  "no": 65,
+  "isim": "MEVLA",
+  "anlam": "Dost, sahip, müminlerin dostu olan, onlara hayır yolları açan ve onları muvaffak kılan",
+  "gorsel": "names/065-mevla"
+ },
+ {
+  "no": 66,
+  "isim": "MUAHHİR/MUKADDİM",
+  "anlam": "İstediğini geri koyan, arkaya bırakan / istediğini ileri geçiren, öne alan",
+  "gorsel": "names/066-muahhir-mukaddim"
+ },
+ {
+  "no": 67,
+  "isim": "MUAZZİB",
+  "anlam": "Azaplandıran",
+  "gorsel": "names/067-muazzib"
+ },
+ {
+  "no": 68,
+  "isim": "MUHİT",
+  "anlam": "Kuşatan",
+  "gorsel": "names/068-muhit"
+ },
+ {
+  "no": 69,
+  "isim": "MUBKİ / MUDHİK",
+  "anlam": "Ağlatan / güldüren",
+  "gorsel": "names/069-mubki-mudhik"
+ },
+ {
+  "no": 70,
+  "isim": "MUVEFFİ",
+  "anlam": "Ahdini yerine getiren, tastamam veren, ödeyen",
+  "gorsel": "names/070-muveffi"
+ },
+ {
+  "no": 71,
+  "isim": "MUHSİ",
+  "anlam": "Sonsuzda olsa, her şeyin sayısını bilen",
+  "gorsel": "names/071-muhsi"
+ },
+ {
+  "no": 72,
+  "isim": "MUHSİN",
+  "anlam": "İhsanı olan, veren",
+  "gorsel": "names/072-muhsin"
+ },
+ {
+  "no": 73,
+  "isim": "MUHYİ",
+  "anlam": "Can bağışlayan, sağlık veren, dirilten, yaşatan",
+  "gorsel": "names/073-muhyi"
+ },
+ {
+  "no": 74,
+  "isim": "MUKALLİB",
+  "anlam": "Çeviren (kalpleri)",
+  "gorsel": "names/074-mukallib"
+ },
+ {
+  "no": 75,
+  "isim": "MUKMİL",
+  "anlam": "Kemale erdiren",
+  "gorsel": "names/075-mukmil"
+ },
+ {
+  "no": 76,
+  "isim": "MUKTEDİR",
+  "anlam": "Kuvvet ve kudret sahiplerinin üzerinde olan",
+  "gorsel": "names/076-muktedir"
+ },
+ {
+  "no": 77,
+  "isim": "MUNTAKİM",
+  "anlam": "İntikam alan, suçluları müstahak oldukları cezaya çarpan",
+  "gorsel": "names/077-muntakim"
+ },
+ {
+  "no": 78,
+  "isim": "MUSAVVİR",
+  "anlam": "Tasvir eden, her şeye şekil ve suret veren",
+  "gorsel": "names/078-musavvir"
+ },
+ {
+  "no": 79,
+  "isim": "MÜBEŞŞİR",
+  "anlam": "Müjdeleyen",
+  "gorsel": "names/079-mubessir"
+ },
+ {
+  "no": 80,
+  "isim": "MÜBEYYİN",
+  "anlam": "Açıklayan",
+  "gorsel": "names/080-mubeyyin"
+ },
+ {
+  "no": 81,
+  "isim": "MÜDEBBİR",
+  "anlam": "İdare eden, yöneten, bütün yaratılmışları düzenle ve dengeyle idare eden ve birbirine yardımcı eden",
+  "gorsel": "names/081-mudebbir"
+ },
+ {
+  "no": 82,
+  "isim": "MÜ'MİN",
+  "anlam": "Emniyet verici, emin kılan",
+  "gorsel": "names/082-mu-min"
+ },
+ {
+  "no": 83,
+  "isim": "MUCİB",
+  "anlam": "Kendine yalvaranların isteklerini veren, icabet eden",
+  "gorsel": "names/083-mucib"
+ },
+ {
+  "no": 84,
+  "isim": "MÜHEYMİN",
+  "anlam": "Gözetici ve koruyucu olan",
+  "gorsel": "names/084-muheymin"
+ },
+ {
+  "no": 85,
+  "isim": "MÜTEALİ",
+  "anlam": "Aklın alabileceği her şeyden pek Yüce",
+  "gorsel": "names/085-muteali"
+ },
+ {
+  "no": 86,
+  "isim": "MÜTEKEBBİR",
+  "anlam": "Her şeyde ve her hadisede büyüklüğünü gösteren",
+  "gorsel": "names/086-mutekebbir"
+ },
+ {
+  "no": 87,
+  "isim": "MUSEVVA",
+  "anlam": "Şekillendiren, düzenleyen",
+  "gorsel": "names/087-musevva"
+ },
+ {
+  "no": 88,
+  "isim": "MÜSTEAN",
+  "anlam": "Kendisi'ne ihtiyaç olunan ve Kendisi'nden yardım beklenen",
+  "gorsel": "names/088-mustean"
+ },
+ {
+  "no": 89,
+  "isim": "MUTAHHİR",
+  "anlam": "Temizleyen, şirkten, kötülükten, manevi kirlerden temizleyen",
+  "gorsel": "names/089-mutahhir"
+ },
+ {
+  "no": 90,
+  "isim": "MÜYESSİR",
+  "anlam": "Hayırda ve şerde kulunun yolunu kolaylaştıran, dinde kolaylık veren, hiç kimseye gücünün üstünde yük yüklemeyen",
+  "gorsel": "names/090-muyessir"
+ },
+ {
+  "no": 91,
+  "isim": "MÜZEKKİ",
+  "anlam": "Her kusur ve ayıptan, manevi kirlerden kullarını temize çıkaran, temizleyen",
+  "gorsel": "names/091-muzekki"
+ },
+ {
+  "no": 92,
+  "isim": "MÜZEYYİN",
+  "anlam": "Süsleyen",
+  "gorsel": "names/092-muzeyyin"
+ },
+ {
+  "no": 93,
+  "isim": "MÜZİL",
+  "anlam": "Zillete düşüren, hor ve hakir eden",
+  "gorsel": "names/093-muzil"
+ },
+ {
+  "no": 94,
+  "isim": "MUĞNİ",
+  "anlam": "İstediğini zengin eden",
+  "gorsel": "names/094-mugni"
+ },
+ {
+  "no": 95,
+  "isim": "NASIR",
+  "anlam": "Yardım eden",
+  "gorsel": "names/095-nasir"
+ },
+ {
+  "no": 96,
+  "isim": "NUR",
+  "anlam": "Alemleri nurlandıran, istediği simalara, zihinlere ve gönüllere nur yağdıran",
+  "gorsel": "names/096-nur"
+ },
+ {
+  "no": 97,
+  "isim": "RABBİL ALEMİN",
+  "anlam": "Alemlerin Rabbi",
+  "gorsel": "names/097-rabbil-alemin"
+ },
+ {
+  "no": 98,
+  "isim": "RAFİ",
+  "anlam": "Yukarı kaldıran, yükselten",
+  "gorsel": "names/098-rafi"
+ },
+ {
+  "no": 99,
+  "isim": "RAHMAN-RAHİM",
+  "anlam": "Merhamet eden, verdiği nimetleri iyi kullananları daha büyük ve ebedi nimetler vermek suretiyle mükafatlandıran, ezelde bütün yaratılmışlar hakkında hayır, rahmet ve irade buyuran, sevdiğini sevmediğini ayırt etmeyerek sayısız nimetlere kavuşturan",
+  "gorsel": "names/099-rahman-rahim"
+ },
+ {
+  "no": 100,
+  "isim": "RAKIB",
+  "anlam": "Bütün varlıklar üzerinde gözcü olan, bütün işleri kontrolü altında tutan",
+  "gorsel": "names/100-rakib"
+ },
+ {
+  "no": 101,
+  "isim": "RAUF",
+  "anlam": "Pek esirgeyen, çok acıyan",
+  "gorsel": "names/101-rauf"
+ },
+ {
+  "no": 102,
+  "isim": "REZZAK",
+  "anlam": "Rızık veren, insanların faydasına olmak üzere nimetlerini veren",
+  "gorsel": "names/102-rezzak"
+ },
+ {
+  "no": 103,
+  "isim": "SAMED",
+  "anlam": "Hacetlerin bitirilmesi, ızdırapların giderilmesi için tek merci olan",
+  "gorsel": "names/103-samed"
+ },
+ {
+  "no": 104,
+  "isim": "SADIK",
+  "anlam": "Vaadine sadık, doğru",
+  "gorsel": "names/104-sadik"
+ },
+ {
+  "no": 105,
+  "isim": "SAİK",
+  "anlam": "Cehenneme süren",
+  "gorsel": "names/105-saik"
+ },
+ {
+  "no": 106,
+  "isim": "SANİ",
+  "anlam": "Sanatçı, nihayetsiz güzellikleri sanatının içinde yaratan",
+  "gorsel": "names/106-sani"
+ },
+ {
+  "no": 107,
+  "isim": "SELAM",
+  "anlam": "Her türlü tehlikelerden kullarını selamete çıkaran, cennetteki kullarına selam eden",
+  "gorsel": "names/107-selam"
+ },
+ {
+  "no": 108,
+  "isim": "SEMİ",
+  "anlam": "İşiten",
+  "gorsel": "names/108-semi"
+ },
+ {
+  "no": 109,
+  "isim": "ŞAFİ",
+  "anlam": "Şifa veren",
+  "gorsel": "names/109-safi"
+ },
+ {
+  "no": 110,
+  "isim": "ŞEFİ",
+  "anlam": "Şefaatçi",
+  "gorsel": "names/110-sefi"
+ },
+ {
+  "no": 111,
+  "isim": "ŞARİH",
+  "anlam": "Açan",
+  "gorsel": "names/111-sarih"
+ },
+ {
+  "no": 112,
+  "isim": "ŞEHİD",
+  "anlam": "Şahit olan, her zaman ve her yerde hazır ve nazır olan",
+  "gorsel": "names/112-sehid"
+ },
+ {
+  "no": 113,
+  "isim": "ŞEKÜR",
+  "anlam": "Kendi rızası için yapılan iyi işlere daha güzeliyle karşılık veren",
+  "gorsel": "names/113-sekur"
+ },
+ {
+  "no": 114,
+  "isim": "TEVVAB",
+  "anlam": "Tevbeleri kabul edip günahları bağışlayan",
+  "gorsel": "names/114-tevvab"
+ },
+ {
+  "no": 115,
+  "isim": "VAHİD",
+  "anlam": "Tek olan, Zatında, sıfatlarında, işlerinde, isimlerinde, hükümlerinde, asla ortağı veya benzeri, dengi bulunmayan",
+  "gorsel": "names/115-vahid"
+ },
+ {
+  "no": 116,
+  "isim": "VARİS",
+  "anlam": "Servetlerin geçici sahipleri elleri boş olarak yokluğa döndükten sonra varlığı devam eden, servetlerin hakiki sahibi",
+  "gorsel": "names/116-varis"
+ },
+ {
+  "no": 117,
+  "isim": "VASİ",
+  "anlam": "Geniş olan",
+  "gorsel": "names/117-vasi"
+ },
+ {
+  "no": 118,
+  "isim": "VEDUD",
+  "anlam": "İyi kullarını seven, onları rahmet ve rızasına erdiren, yahut sevilmeye ve dostluğu kazanılmaya tek layık olan",
+  "gorsel": "names/118-vedud"
+ },
+ {
+  "no": 119,
+  "isim": "VEHHAB",
+  "anlam": "Bağışı çok olan, karşılıksız armağan eden",
+  "gorsel": "names/119-vehhab"
+ },
+ {
+  "no": 120,
+  "isim": "VEKİL",
+  "anlam": "İşlerini Kendisi'ne bırakanların işini düzeltip, onların yapabileceğinden daha iyisini temin eden",
+  "gorsel": "names/120-vekil"
+ },
+ {
+  "no": 121,
+  "isim": "VELİ",
+  "anlam": "İyi kullarına dost olan",
+  "gorsel": "names/121-veli"
+ },
+ {
+  "no": 122,
+  "isim": "ZÜLCELAL-İ VE'L İKRAM",
+  "anlam": "Hem büyüklük sahibi hem kerem ve ikram sahibi olan",
+  "gorsel": "names/122-zulcelal-i-ve-l-ikram"
+ },
+ {
+  "no": 123,
+  "isim": "ZAHİR",
+  "anlam": "Aşikar olan",
+  "gorsel": "names/123-zahir"
+ }
+]
